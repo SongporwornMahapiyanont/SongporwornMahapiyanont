@@ -1,4 +1,4 @@
-Hi ![](https://giffiles.alphacoders.com/215/215613.gif)My name is Songporworn Mahapiyanont
+Hi ![](https://giffiles.alphacoders.com/215/215613.gif width="50")My name is Songporworn Mahapiyanont
 ================================================================================================================================================
 
 Student Computer Science (CS)
