@@ -10,7 +10,7 @@ I am student (CS) on Silpakorn University (Thailand) level 1 and I have learned 
 * ✉️  You can contact me at [songporwornmahapiyanont@gmail.com](mailto:songporwornmahapiyanont@gmail.com)
 * 🧠  I'm learning Python , Deep learning
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -25,7 +25,7 @@ I am student (CS) on Silpakorn University (Thailand) level 1 and I have learned 
 
 
 
-### Socials
+## Socials
 
 <p align="left"> 
 <a href="https://www.facebook.com/profile.php?id=100005739722492" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> 
