@@ -26,6 +26,9 @@ I am student (CS) on Silpakorn University (Thailand) level 1 and I have learned 
 <a href="https://influencermarketinghub.com/what-is-capcut/" target="_blank" rel="noreferrer"><img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBaQDG.nPeYqpMXSUQbV6ZbD8Nm3XDKQgbKW1URtTjmhuanDJfhEbePHZ5LVamqyvCFgA8k4u7is2shQhzOP.SXM-&format=source" width="36" height="36" alt="Capcut" /></a>
 </p>
 
+<a href="" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fnode-js-logo%2F&psig=AOvVaw35uoI8IGN0b-oOfMXtuM5R&ust=1743931010762000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIj207THwIwDFQAAAAAdAAAAABAE" width="36" height="36" alt="Capcut" /></a>
+</p>
+
 
 
 ## Socials
