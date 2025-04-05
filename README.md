@@ -34,6 +34,9 @@ I am student (CS) on Silpakorn University (Thailand) level 1 and I have learned 
   <a href="https://www.w3schools.com/nodejs/default.asp" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" width="60" height="40" alt="Nodejs"/>
   </a>
+  <a href="https://www.w3schools.com/nodejs/default.asp" target="_blank" rel="noreferrer" style="margin-right: 8px;">
+    <img src="[https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png](https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png)" width="60" height="40" alt="Nodejs"/>
+  </a>
 </p>
 
 
