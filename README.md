@@ -96,8 +96,9 @@ I am student (CS) on Silpakorn University (Thailand) level 1 and I have learned 
 
 <!-- Top Languages Chart -->
 <a href="https://github.com/SongporwornMahapiyanont" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongporwornMahapiyanont&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongporwornMahapiyanont&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
+
 
 
 
