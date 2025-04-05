@@ -26,7 +26,7 @@ I am student (CS) on Silpakorn University (Thailand) level 1 and I have learned 
 <a href="https://influencermarketinghub.com/what-is-capcut/" target="_blank" rel="noreferrer"><img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBaQDG.nPeYqpMXSUQbV6ZbD8Nm3XDKQgbKW1URtTjmhuanDJfhEbePHZ5LVamqyvCFgA8k4u7is2shQhzOP.SXM-&format=source" width="36" height="36" alt="Capcut" /></a>
 </p>
 
-<a href="https://www.w3schools.com/nodejs/default.asp" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" width="36" height="36" alt="Nodejs"/></a>
+<a href="https://www.w3schools.com/nodejs/default.asp" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" width="50" height="36" alt="Nodejs"/></a>
 </p>
 
 
