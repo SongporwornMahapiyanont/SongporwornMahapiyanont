@@ -18,16 +18,17 @@ I am student (CS) on Silpakorn University (Thailand) level 1 and I have learned 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="36" alt="Python" /></a                                                                            
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>                                                                                                                                                          <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" width="36" height="36" alt="JAVASCRIPT" /></a>
+<a href="https://www.w3schools.com/nodejs/default.asp" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" width="50" height="36" alt="Nodejs"/></a>
+</p>
 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://influencermarketinghub.com/what-is-capcut/" target="_blank" rel="noreferrer"><img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBaQDG.nPeYqpMXSUQbV6ZbD8Nm3XDKQgbKW1URtTjmhuanDJfhEbePHZ5LVamqyvCFgA8k4u7is2shQhzOP.SXM-&format=source" width="36" height="36" alt="Capcut" /></a>
+<a href="https://influencermarketinghub.com/what-is-capcut/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/64ea57571d50b02423c4505d/64fb219ade937671b42e011e_capcut%20logo%20png.png" width="36" height="36" alt="Capcut" /></a>
 </p>
 
-<a href="https://www.w3schools.com/nodejs/default.asp" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" width="50" height="36" alt="Nodejs"/></a>
-</p>
+
 
 
 
