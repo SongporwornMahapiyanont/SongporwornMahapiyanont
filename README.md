@@ -103,9 +103,9 @@ I am student (CS) on Silpakorn University (Thailand) level 1 and I have learned 
     </picture>
   </a>
 
-  <a href="https://www.youtube.com/@NorNear_007" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="https://www.tiktok.com/@nornear_007" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <picture>
-      <img src="https://static.vecteezy.com/system/resources/previews/023/986/492/non_2x/tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" width="32" height="32" alt="YouTube" />
+      <img src="https://static.vecteezy.com/system/resources/previews/023/986/492/non_2x/tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" width="40" height="40" alt="YouTube" />
     </picture>
   </a>
 </p>
