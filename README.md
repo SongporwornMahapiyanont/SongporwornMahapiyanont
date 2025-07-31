@@ -102,6 +102,14 @@ I am student (CS) on Silpakorn University (Thailand) level 1 and I have learned 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
     </picture>
   </a>
+
+  <a href="https://www.youtube.com/@NorNear_007" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
+      <img src="https://static.vecteezy.com/system/resources/previews/023/986/492/non_2x/tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" width="32" height="32" alt="YouTube" />
+    </picture>
+  </a>
 </p>
 
 <!-- Top Languages Chart -->
