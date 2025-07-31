@@ -90,7 +90,7 @@ I am student (CS) on Silpakorn University (Thailand) level 1 and I have learned 
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+      <img src="https://www.instagram.com/mahapiyanont_s/" width="32" height="32" alt="Instagram" />
     </picture>
   </a>
 
