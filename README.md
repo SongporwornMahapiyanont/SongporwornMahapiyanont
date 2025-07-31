@@ -38,7 +38,7 @@ I am student (CS) on Silpakorn University (Thailand) level 1 and I have learned 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png" width="100" height="60" alt="Nodejs"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="60" height="40" alt="MySQL" />
+    <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="100" height="60" alt="MySQL" />
   </a> 
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png" width="60" height="40" alt="MySQL" />
