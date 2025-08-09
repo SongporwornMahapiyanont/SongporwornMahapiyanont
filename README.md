@@ -8,7 +8,6 @@ I am student (CS) on Silpakorn University (Thailand) level 1 and I have learned 
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [songporwornmahapiyanont@gmail.com](mailto:songporwornmahapiyanont@gmail.com)
-* 🧠  I'm learning Python , Deep learning
 
 ## Skills
 
