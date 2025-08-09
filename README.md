@@ -44,7 +44,7 @@ I am student (CS) on Silpakorn University (Thailand) level 1 and I have learned 
     <img src="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png" width="60" height="40" alt="MySQL" />
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" style="margin-right: 8px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ58DYxWj7WBQUuApDSU-GRNUuD9u6e_v6Kuw&s" width="60" height="40" alt="MySQL" />
+    <img src="https://e7.pngegg.com/pngimages/678/747/png-clipart-dart-logo-thumbnail-tech-companies.png" width="60" height="40" alt="MySQL" />
   </a>
   
 </p>
