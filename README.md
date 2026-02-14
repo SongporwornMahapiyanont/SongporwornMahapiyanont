@@ -27,6 +27,9 @@ I am student (CS) on Silpakorn University (Thailand) level 1 and I have learned 
   <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
   </a>
+  <a href="" target="_blank" rel="noreferrer" style="margin-right: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" width="36" height="36" alt="CSS3" />
+  </a>
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" width="36" height="36" alt="JAVASCRIPT" />
   </a>
