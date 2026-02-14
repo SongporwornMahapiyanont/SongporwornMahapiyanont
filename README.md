@@ -68,8 +68,6 @@ I am student (CS) on Silpakorn University (Thailand) level 3
 
 ## Socials
 
-<h3><b>🌐 Connect with Me</b></h3>
-
 <p align="left">
   <h3 align="left">Connect with me:</h3>
 <p align="left">
